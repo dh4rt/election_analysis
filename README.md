@@ -22,10 +22,10 @@ individually represented. This allowed me to show which county was the populatio
 ## **Resources**
 The resources required for this project included:
 
-A data set provided by the BoE found here:
+A data set provided by the BoE found here: https://github.com/dh4rt/election_analysis/blob/main/resources/election_results.csv
 Python 3.7.6
 Visual Studio Code 1.73
-The code, which is partially refactored from code provided by the BoE, is listed here:
+The code, which is partially refactored from code provided by the BoE, is listed here: https://github.com/dh4rt/election_analysis/blob/main/PyPoll_Challenge.py
 
 ## **Summary**
 The BoE has directed me to provide short answers in built point format to help readers quickly glean results.
